@@ -69,9 +69,10 @@ button:hover {
 }
 
 .result #finalBalance {
-  color: #28a745;
+  color: #067821;
+  font-size: 30px;
 }
 
 .result #totalInvestment {
-  color: #dc3545;
+  color: #ab0c1c;
 }
